@@ -2,11 +2,21 @@
 
 MediTrack is a comprehensive medicine management and alerting system that helps track inventory, expiration dates, and predicts demand based on seasonal and climate factors.
 
+## Live Demo
+
 <p align="center">
   <a href="http://medi-track-management.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge&logo=vercel" alt="Live Demo Badge"/>
   </a>
 </p>
+
+## 🔐 Demo Credentials
+
+Use the following demo account to explore:
+
+- **Email:** `medicinesystemadmins@gmail.com`
+- **Password:** `Medicine@123`
+
 
 
 ## Features
